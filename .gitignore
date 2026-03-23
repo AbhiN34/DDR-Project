@@ -1,0 +1,4 @@
+.pdf_cache/
+.context/
+__pycache__/
+*.pyc

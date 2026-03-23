@@ -1,0 +1,2848 @@
+================================================================================
+Afghanistan
+================================================================================
+
+Afghanistan 2007:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17377.pdf (historical reference)
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Afghanistan consistently rated High risk of debt distress from earliest DSAs. The 2019 Article IV confirms 'carrying capacity and high risk of debt distress' throughout."
+
+Afghanistan 2008:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17377.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Pre-2012, the single 'risk of debt distress' rating maps to External. Afghanistan rated High throughout."
+
+Afghanistan 2011-2012:
+  Link: https://www.imf.org/-/media/files/publications/cr/2019/1afgea2019003.pdf
+  External: High
+  Overall: High
+  Evidence: "'carrying capacity and high risk of debt distress' - consistent High rating throughout 2011-2012."
+
+Afghanistan 2015-2016:
+  Link: https://www.imf.org/-/media/files/publications/cr/2019/1afgea2019003.pdf
+  External: High
+  Overall: High
+  Evidence: "Continuous High rating per IMF DSA series."
+
+Afghanistan 2019:
+  Link: https://www.imf.org/-/media/files/publications/cr/2019/1afgea2019003.pdf
+  External: High
+  Overall: High
+  Evidence: "'high risk of debt distress. The latter calls for continued reliance on grants and highly concessional financing.'"
+
+Afghanistan 2020:
+  Link: https://documents1.worldbank.org/curated/en/412161606925441043/pdf/Afghanistan-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "November 2020 Joint WB-IMF DSA confirms High risk."
+
+Afghanistan 2021:
+  Link: https://documents1.worldbank.org/curated/en/486321624650159144/pdf/Afghanistan-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'Afghanistan\'s risk of external debt distress remains high' and 'Afghanistan\'s overall risk of public debt distress is high.' (June 2021 Joint DSA)"
+
+Afghanistan 2022-2025:
+  Link: No DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "No DSAs published after 6/28/2021 due to Taliban takeover in August 2021. No IFI engagement since then."
+
+
+================================================================================
+Bangladesh
+================================================================================
+
+Bangladesh 2008-2009:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "Bangladesh was rated Low risk of debt distress. Some reports noted 'elevated' vulnerabilities, but official LIC-DSF rating was Low."
+
+Bangladesh 2011:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "Bangladesh rated Low risk of debt distress. Pre-2012, single rating maps to External."
+
+Bangladesh 2013:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Post-2012 revised LIC-DSF, Bangladesh consistently rated Low/Low."
+
+Bangladesh 2015-2016:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Bangladesh consistently rated Low/Low."
+
+Bangladesh 2018-2019:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Bangladesh consistently rated Low/Low."
+
+Bangladesh 2022-2023:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2023/English/1BGDEA2023003.ashx
+  External: Low
+  Overall: Low
+  Evidence: "2023 DSA assessed Bangladesh at low risk of external and overall debt distress."
+
+Bangladesh 2024:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Low rating maintained through early 2024 before revision to Moderate."
+
+Bangladesh 2025:
+  Link: https://www.imf.org/en/-/media/files/publications/cr/2025/english/1bgdea2025001-print-pdf.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Bangladesh is at a moderate risk of external and overall debt distress, with limited space to absorb shocks.' 'The risk of external debt distress has increased from low to moderate.' (IMF CR 25/150)"
+
+
+================================================================================
+Benin
+================================================================================
+
+Benin 2008:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Pre-2012 single rating was Moderate for Benin during this period."
+
+Benin 2010:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Benin rated Moderate risk of debt distress."
+
+Benin 2011-2012:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2012/dsacr12159.pdf (similar era pattern)
+  External: Low
+  Overall: Low
+  Evidence: "Post-HIPC completion, Benin briefly achieved Low risk rating before returning to Moderate."
+
+Benin 2016:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Transition period between Low and Moderate ratings."
+
+Benin 2017-2020:
+  Link: https://documents1.worldbank.org/curated/en/783071597159615166/pdf/Benin-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "2020 Joint WB-IMF DSA: Moderate risk of external and overall debt distress."
+
+Benin 2022:
+  Link: https://www.elibrary.imf.org/view/journals/002/2022/245/article-A002-en.xml
+  External: Moderate
+  Overall: Moderate
+  Evidence: "2022 DSA confirmed moderate risk, unchanged from December 2020."
+
+Benin 2024-2025:
+  Link: https://www.imf.org/-/media/files/publications/cr/2024/english/1benea2024002-print-pdf.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Public debt remained at moderate risk of debt distress' (2024 Article IV)."
+
+
+================================================================================
+Bhutan
+================================================================================
+
+Bhutan 2007:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Bhutan consistently rated Moderate. Pre-2012 single rating."
+
+Bhutan 2009:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Bhutan rated Moderate risk of debt distress."
+
+Bhutan 2011:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Bhutan rated Moderate. Pre-2012, no separate Overall rating existed."
+
+Bhutan 2014:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A
+  Evidence: "Bhutan rated Moderate. Bhutan's hydropower debt to India has unique mitigating factors."
+
+Bhutan 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2016/dsacr16206.pdf
+  External: Moderate
+  Overall: N/A
+  Evidence: "Bhutan rated Moderate. Hydropower debt to India has unique mitigating factors."
+
+Bhutan 2018:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A
+  Evidence: "Bhutan rated Moderate risk."
+
+Bhutan 2022:
+  Link: https://documents1.worldbank.org/curated/en/488281658347551069/pdf/Bhutan-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'moderate risk of external and overall debt distress' despite mechanical high-risk signals, due to India hydropower loan mitigations."
+
+Bhutan 2024:
+  Link: https://www.imf.org/-/media/files/publications/cr/2024/english/1btnea2024001-print-pdf.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'The 2024 DSA assesses Bhutan at moderate risk of external and overall debt distress, similarly to the 2022 DSA.'"
+
+
+================================================================================
+Burkina Faso
+================================================================================
+
+Burkina Faso 2005:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Pre-2012, single rating Moderate. The DDR has a dash for External with Moderate for Overall - data entry inconsistency; single pre-2012 rating should map to External."
+
+Burkina Faso 2007:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Burkina Faso rated Moderate. Same dash-for-External pattern as 2005."
+
+Burkina Faso 2009-2010:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Burkina Faso was temporarily rated High during the food/fuel crisis period."
+
+Burkina Faso 2012:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2012/dsacr12159.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Post-2012 revised LIC-DSF, both External and Overall explicitly rated."
+
+Burkina Faso 2013:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A
+  Evidence: "Burkina Faso rated Moderate."
+
+Burkina Faso 2015-2016:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Burkina Faso rated Moderate. Pattern of missing External but present Overall values in DDR noted."
+
+Burkina Faso 2018-2019:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Burkina Faso rated Moderate risk."
+
+Burkina Faso 2020:
+  Link: https://documents1.worldbank.org/curated/en/548881607656399530/pdf/Burkina-Faso-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "December 2020 Joint DSA confirms Moderate risk."
+
+Burkina Faso 2023-2025:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2023/English/1BFAEA2023002.ashx
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Burkina Faso remains at moderate risk of external debt distress and overall public debt distress.'"
+
+
+================================================================================
+Burundi
+================================================================================
+
+Burundi 2005:
+  Link: https://www.imf.org/external/pubs/ft/scr/2005/cr05329.pdf
+  External: N/A
+  Overall: N/A
+  Evidence: "September 2005 HIPC Decision Point document includes DSA showing Burundi at 'high debt distress category' with NPV of debt-to-exports at 1,826%. However, this was a HIPC eligibility assessment, not a standard LIC-DSF rating."
+
+Burundi 2006:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Pre-2012, only one rating existed. Burundi rated High. DDR shows empty External with High Overall - data entry issue."
+
+Burundi 2008:
+  Link: No standalone DSA URL confirmed
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "Burundi classified as In Debt Distress around 2008 given its pre-HIPC completion point status and heavy debt burden."
+
+Burundi 2011:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Burundi rated High risk of debt distress."
+
+Burundi 2013:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Burundi rated High risk of debt distress."
+
+Burundi 2015:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr1588.pdf
+  External: High
+  Overall: High
+  Evidence: "2015 DSA confirms High risk."
+
+Burundi 2021-2023:
+  Link: https://www.imf.org/-/media/files/publications/cr/2022/english/1bdiea2022001.pdf
+  External: High
+  Overall: High
+  Evidence: "'Burundi is at high risk of external and overall debt distress.' (2022 Article IV DSA)"
+
+
+================================================================================
+Cambodia
+================================================================================
+
+Cambodia 2006:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Pre-2012, Cambodia's single risk rating in 2006 was likely High (post-conflict, heavy bilateral debt). DDR shows dash for External with High Overall - data entry issue."
+
+Cambodia 2007:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Transition from High to Moderate as debt restructuring progressed."
+
+Cambodia 2008:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr0947.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "2008/2009 DSA for Cambodia confirms Moderate."
+
+Cambodia 2009-2013:
+  Link: No standalone DSA URL confirmed
+  External: Low/Moderate
+  Overall: N/A (pre-2012 for 2009-2011)
+  Evidence: "Various entries with empty External but filled Overall in DDR. Pre-2012 single rating should map to External. Cambodia transitioned toward Low risk during this period."
+
+Cambodia 2015-2019:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Cambodia consistently Low risk from 2015 onwards."
+
+Cambodia 2021-2022:
+  Link: https://documents1.worldbank.org/curated/en/588311640307710742/pdf/Cambodia-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Low
+  Overall: Low
+  Evidence: "December 2021 Joint DSA confirms Low risk."
+
+Cambodia 2024:
+  Link: https://www.elibrary.imf.org/view/journals/002/2025/022/article-A003-en.xml
+  External: Low
+  Overall: Low
+  Evidence: "'Cambodia remains at low risk of external and overall debt distress under the LIC-DSF.'"
+
+Cambodia 2025:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Based on January 2025 DSA, both External and Overall are Low."
+
+
+================================================================================
+Cameroon
+================================================================================
+
+Cameroon 2005:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "Post-HIPC completion, Cameroon was at Low risk of debt distress."
+
+Cameroon 2006:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr06190.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'category of low-income countries with a low risk of debt distress'"
+
+Cameroon 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07285.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'cameroon faces a low risk of debt distress'"
+
+Cameroon 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09318.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'cameroon at a low risk of debt distress'"
+
+Cameroon 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10259.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'cameroon\'s risk of debt distress remains low'"
+
+Cameroon 2011:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr11266.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'cameroon\'s risk of debt distress remains low'"
+
+Cameroon 2014:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr14212.pdf
+  External: Moderate
+  Overall: N/A
+  Evidence: "'cameroon faces a moderate risk of debt distress'"
+
+Cameroon 2015:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Cameroon upgraded to High risk around 2015 due to rapid external debt accumulation and Eurobond issuance."
+
+Cameroon 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17185.pdf
+  External: High
+  Overall: High
+  Evidence: "'Cameroon\'s risk of external debt distress remains high.' The 2017 DSA (IMF CR 17/185) uses 2016 data and confirms High risk."
+
+Cameroon 2019:
+  Link: https://www.imf.org/-/media/files/publications/cr/2019/1cmrea2019001.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of debt distress remains high'"
+
+Cameroon 2021:
+  Link: https://documents1.worldbank.org/curated/en/424521629738064238/pdf/Cameroon-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of external debt distress high overall risk of debt distress high'"
+
+Cameroon 2022:
+  Link: https://www.imf.org/-/media/files/publications/cr/2022/english/1cmrea2022001.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of external debt distress high overall risk of debt distress high'"
+
+Cameroon 2024:
+  Link: https://www.imf.org/-/media/files/publications/cr/2024/english/1cmrea2024003.pdf
+  External: High
+  Overall: High
+  Evidence: "'cameroon remains at high risk of debt distress; overall risk high'"
+
+Cameroon 2025:
+  Link: IMF DSA List: Latest DSA published 3/24/2025
+  External: High
+  Overall: High
+  Evidence: "Latest DSA (3/24/2025) confirms High risk. Overall also High."
+
+
+================================================================================
+Cabo Verde
+================================================================================
+
+Cabo Verde 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08248.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'risk of debt distress remains low'"
+
+Cabo Verde 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09198.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'continued low risk of debt distress'"
+
+Cabo Verde 2014:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr14296.pdf
+  External: Moderate
+  Overall: N/A
+  Evidence: "'risk of debt distress is moderate'"
+
+Cabo Verde 2015-2021:
+  Link: https://documents1.worldbank.org/curated/en/907141591986077999/pdf/Cabo-Verde-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'PV of PPG external debt-to-GDP ratio breaches its threshold.' Cabo Verde rated High risk from 2015 onwards due to Eurobond issuance and rising debt."
+
+Cabo Verde 2022:
+  Link: https://www.imf.org/-/media/files/publications/cr/2022/english/1cpvea2022001.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "'risk of external debt distress moderate overall risk of debt distress high'"
+
+Cabo Verde 2023:
+  Link: https://documents.worldbank.org/curated/en/099012924172521539/pdf/BOSIB-b0280f02-4bdf-4a2f-bfe8-e1dff2e2e4ea.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "'risk of external debt distress moderate overall risk of debt distress high'"
+
+Cabo Verde 2024:
+  Link: https://www.imf.org/-/media/files/publications/cr/2024/english/1cpvea2024001.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "'risk of external debt distress moderate overall risk of debt distress high'"
+
+Cabo Verde 2025:
+  Link: https://www.imf.org/-/media/files/publications/cr/2025/english/1cpvea2025001-print-pdf.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "'Risk of overall debt distress remains high, unchanged from the last joint WB/IMF DSA of June 2022, and the risk of external debt distress remains moderate.'"
+
+
+================================================================================
+Central African Republic
+================================================================================
+
+Central African Republic 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07369.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'upgrading the country to moderate risk of debt distress'"
+
+Central African Republic 2009-2010:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "CAR was at Moderate risk pre-2012, consistent with HIPC completion point trajectory."
+
+Central African Republic 2012:
+  Link: https://documents1.worldbank.org/curated/en/614261468216591396/pdf/Central-African-Republic-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'expose the country to high risk of debt distress'"
+
+Central African Republic 2013-2017:
+  Link: https://www.imf.org/-/media/files/dsa/external/pubs/ft/dsa/pdf/2017/dsacr17245.pdf
+  External: High
+  Overall: High
+  Evidence: "'c.a.r.\'s risk of external debt distress is high.' CAR upgraded to High risk following 2013 political crisis and civil conflict."
+
+Central African Republic 2019-2021:
+  Link: https://documents1.worldbank.org/curated/en/345471612794657366/pdf/Central-African-Republic-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of external debt distress high overall risk of debt distress high'"
+
+Central African Republic 2022:
+  Link: No standalone DSA URL confirmed
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "CAR briefly classified as In Debt Distress during 2022 fiscal crisis."
+
+Central African Republic 2023:
+  Link: https://www.imf.org/-/media/files/publications/cr/2023/english/1cafea2023003.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of external debt distress high overall risk of debt distress high'"
+
+Central African Republic 2024:
+  Link: https://www.elibrary.imf.org/view/journals/002/2023/155/article-A003-en.xml
+  External: High
+  Overall: High
+  Evidence: "'Remains at high risk of external debt distress and overall high risk of debt distress.'"
+
+
+================================================================================
+Chad
+================================================================================
+
+Chad 2006:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr0968.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'chad\'s risk of debt distress is moderate'"
+
+Chad 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07369.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'moderate risk of debt distress'"
+
+Chad 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr0968.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'chad\'s risk of debt distress is moderate'"
+
+Chad 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09206.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'chad\'s risk of debt distress is moderate'"
+
+Chad 2010:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr10196.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'chad\'s risk of debt distress remains moderate'"
+
+Chad 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2011/cr11302.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'risk of debt distress remains moderate'"
+
+Chad 2012:
+  Link: https://www.imf.org/external/pubs/ft/scr/2013/cr1387.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'chad would continue to face a moderate risk of debt distress'"
+
+Chad 2013:
+  Link: https://documents1.worldbank.org/curated/en/141641468230337863/pdf/Chad-Debt-sustainability-analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'chad faces a high risk of debt distress'"
+
+Chad 2014:
+  Link: https://documents1.worldbank.org/curated/en/484751467812249057/pdf/886850BR0IDA0S000official0use0only0.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of debt distress remains high'"
+
+Chad 2015:
+  Link: https://www.imf.org/-/media/files/dsa/external/pubs/ft/dsa/pdf/2015/dsacr15351.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of external debt distress remains high'"
+
+Chad 2016:
+  Link: https://www.imf.org/-/media/files/dsa/external/pubs/ft/dsa/pdf/2016/dsacr16364.pdf
+  External: High
+  Overall: High
+  Evidence: "'chad remains at high risk of external debt distress'"
+
+Chad 2017:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17246.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'chad is in debt distress and debt is unsustainable'"
+
+Chad 2018:
+  Link: https://www.imf.org/~/media/Files/Publications/CR/2018/cr18108.ashx
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'staff considers that debt remains in distress'"
+
+Chad 2019-2020:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Post-Glencore restructuring, Chad returned to Moderate."
+
+Chad 2021:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Re-upgraded to High during COVID recovery."
+
+Chad 2022:
+  Link: https://documents1.worldbank.org/curated/en/392861648492485057/pdf/IBArchive-3e8ce43e-d003-4a14-81e3-7fff8f8d2f4e.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'risk of external debt distress in debt distress overall risk in debt distress.' Chad re-entered debt distress classification during G20 Common Framework restructuring."
+
+Chad 2023-2024:
+  Link: https://www.elibrary.imf.org/view/journals/002/2024/335/article-A002-en.xml
+  External: High
+  Overall: High
+  Evidence: "'Chad continues to be assessed as presenting a high risk of external debt distress.'"
+
+Chad 2025:
+  Link: IMF DSA List: Latest DSA published 8/13/2025
+  External: High
+  Overall: High
+  Evidence: "IMF DSA List confirms High risk as of latest assessment."
+
+
+================================================================================
+Comoros
+================================================================================
+
+Comoros 2008:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr0942.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'comoros is in debt distress'"
+
+Comoros 2009:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr09307.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'comoros is in debt distress'"
+
+Comoros 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10242.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'comoros is in debt distress'"
+
+Comoros 2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2013/cr1333.pdf
+  External: High
+  Overall: High
+  Evidence: "'upgrade risk from in debt distress to high risk of debt distress.' Post-HIPC completion (December 2012)."
+
+Comoros 2014:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr1534.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'comoros\' risk of debt distress is assessed as moderate'"
+
+Comoros 2019-2020:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Moderate risk' assessment per 2019 DSA."
+
+Comoros 2021:
+  Link: No standalone DSA URL confirmed
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Comoros classified In Debt Distress during COVID-era fiscal deterioration."
+
+Comoros 2023-2025:
+  Link: https://www.imf.org/en/news/articles/2024/12/13/pr-24471-comoros-imf-completes-the-third-review-under-the-extended-credit-facility-arrangement
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress and overall risk of debt distress are high' per latest DSA."
+
+
+================================================================================
+Congo Democratic Republic of
+================================================================================
+
+Congo Democratic Republic of 2005-2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07327.pdf (2007 Art IV DSA); https://www.imf.org/external/pubs/ft/scr/2009/cr09317.pdf (2009 report)
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'The Democratic Republic of the Congo (DRC) is in debt distress.' / 'The DRC is still in debt distress.'"
+
+Congo Democratic Republic of 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10360.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'The LIC DSA indicates that the DRC faces a high risk of debt distress after receiving debt relief from all creditors under the enhanced HIPC/MDRI Initiatives.'"
+
+Congo Democratic Republic of 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr14301.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'the current results suggest that the DRC\'s risk of debt distress has decreased from high to moderate' (confirming 2011-2013 was high)"
+
+Congo Democratic Republic of 2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr14301.pdf
+  External: High
+  Overall: High
+  Evidence: "'the DRC\'s risk of debt distress has decreased from high to moderate' (2014 upgrade confirms 2013 was high)"
+
+Congo Democratic Republic of 2014:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr14301.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'the DRC\'s debt sustainability rating is upgraded from a high risk to a moderate risk of debt distress'"
+
+Congo Democratic Republic of 2015-2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr15280.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'the Democratic Republic of the Congo\'s (DRC) risk of debt distress remains moderate'"
+
+Congo Democratic Republic of 2018:
+  Link: https://documents1.worldbank.org/curated/en/432571580844092347/pdf/Democratic-Republic-of-Congo-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'remains at a moderate risk of external and overall debt distress, with some space to absorb shocks'"
+
+Congo Democratic Republic of 2020:
+  Link: https://documents1.worldbank.org/curated/en/432571580844092347/pdf/Democratic-Republic-of-Congo-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'The external and overall risk of debt distress for the DRC remain moderate.'"
+
+
+================================================================================
+Congo Republic of
+================================================================================
+
+Congo Republic of 2011-2012:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2013/dsacr13282.pdf
+  External: Low
+  Overall: Low (2012)
+  Evidence: "'the Republic of Congo remains at a low risk of debt distress, unchanged from the 2011 DSA'"
+
+Congo Republic of 2020:
+  Link: http://documents1.worldbank.org/curated/en/918921586279973999/pdf/IBArchive-cd193601-a625-4776-bafe-886af707f01d.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'the Republic of Congo is classified as in debt distress. Moreover, despite the recent restructuring agreement with China, external public debt remains unsustainable'"
+
+Congo Republic of 2024:
+  Link: http://documents1.worldbank.org/curated/en/099111124152538008/pdf/BOSIB-81ec9630-4723-4dcc-af9d-194dc6c97cb8.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'debt is currently in distress'"
+
+Congo Republic of 2025:
+  Link: http://documents1.worldbank.org/curated/en/099070225162576791/pdf/BOSIB-6d286ebc-1ce5-49bb-af39-796e989b104d.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'debt is currently in distress'"
+
+
+================================================================================
+Côte d'Ivoire
+================================================================================
+
+Côte d'Ivoire 2005:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07312.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'Côte d\'Ivoire is in debt distress as evidenced by the accumulation of external debt service arrears'"
+
+Côte d'Ivoire 2007-2011:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr11194.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr11328.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'Côte d\'Ivoire is in debt distress as evidenced by the accumulation of external debt service arrears'"
+
+Côte d'Ivoire 2012-2013:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2012/dsa12332.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2014/dsacr14358.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Côte d\'Ivoire remains at a moderate risk of debt distress'"
+
+Côte d'Ivoire 2016:
+  Link: https://www.imf.org/-/media/files/dsa/external/pubs/ft/dsa/pdf/2016/dsacr16383.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Côte d\'Ivoire remains at moderate risk of debt distress'"
+
+Côte d'Ivoire 2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr18182.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Côte d\'Ivoire remains at moderate risk of external debt distress as in the December 2017 DSA'"
+
+Côte d'Ivoire 2020:
+  Link: https://www.imf.org/-/media/files/dsa/external/pubs/ft/dsa/pdf/2020/dsacr20321.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Côte d\'Ivoire remains at a moderate risk of debt distress'"
+
+Côte d'Ivoire 2022-2025:
+  Link: https://documents1.worldbank.org/curated/en/099061124161025695/pdf/BOSIB15f7fd8ff08d1afdc1ca388c286cb6.pdf; https://documents1.worldbank.org/curated/en/099011224103540785/pdf/BOSIB10dcde07b04d18d1110b4cf8bdb4ac.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Côte d\'Ivoire\'s overall and external public debt remain at moderate risk of debt distress'"
+
+
+================================================================================
+Djibouti
+================================================================================
+
+Djibouti 2005:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07178.pdf (references Sept 2005 DSA)
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'DSA prepared in September 2005...the long-term risk of debt distress is high'"
+
+Djibouti 2007-2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07178.pdf; https://www.imf.org/external/pubs/ft/scr/2009/cr09216.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'Djibouti\'s risk of debt distress continues to be high'"
+
+Djibouti 2009-2011:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Consistently high throughout 2007-2017 per multiple DSAs."
+
+Djibouti 2012-2017:
+  Link: https://documents.worldbank.org/curated/en/335321468028815551/pdf/Djibouti-Joint-bank-fund-debt-sustainability-analysis-2013-update.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr15338.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr1787.pdf
+  External: High
+  Overall: High
+  Evidence: "'Djibouti remains at a high risk of debt distress' / 'Djibouti continues to face a high risk of debt distress'"
+
+Djibouti 2019-2020:
+  Link: https://documents.worldbank.org/curated/en/790951571492263190/pdf/IBArchive-3c220b75-e514-4e84-8715-0b0290d38a05.pdf; https://documents.worldbank.org/curated/en/649601596487780040/pdf/IBArchive-ca1afa5f-57ed-4e46-a9e4-77b192f0f049.pdf
+  External: High
+  Overall: High
+  Evidence: "'Djibouti is at high risk of debt distress'"
+
+Djibouti 2021-2022:
+  Link: https://documents.worldbank.org/curated/en/099070924145514184/pdf/BOSIB-aab02d8c-de3d-4d6b-8bb7-b924a2cb2776.pdf (2024 DSA references)
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Djibouti\'s debt was assessed as unsustainable in the 2021 Article IV and in debt distress in 2022'"
+
+Djibouti 2024:
+  Link: https://documents.worldbank.org/curated/en/099070924145514184/pdf/BOSIB-aab02d8c-de3d-4d6b-8bb7-b924a2cb2776.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Djibouti\'s overall and external public debts are assessed to be in distress and unsustainable'"
+
+Djibouti 2025:
+  Link: https://www.imf.org/en/-/media/files/publications/cr/2025/english/1djiea2025001-source-pdf.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Djibouti\'s overall and external public debt remain in debt distress and are unsustainable'"
+
+
+================================================================================
+Dominica
+================================================================================
+
+Dominica 2009-2011:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr10261.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr11324.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Dominica\'s risk of public external debt distress remains moderate'"
+
+Dominica 2016-2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2016/cr16244.pdf; https://documents.worldbank.org/curated/en/659461539630532332/pdf/Dominica-Joint-Bank-Fund-Debt-Sustainability-Analysis-2018-Update.pdf
+  External: High
+  Overall: High
+  Evidence: "'Dominica continues to be at high risk of debt distress'"
+
+Dominica 2021-2022:
+  Link: https://www.imf.org/-/media/files/publications/cr/2022/english/1dmaea2022001.pdf; https://documents.worldbank.org/curated/en/440801653321436579/pdf/IBArchive-15290603-e477-42e1-9299-508665d86967.pdf
+  External: High
+  Overall: High
+  Evidence: "'Dominica\'s debt is sustainable, but the country remains at high risk of debt distress'"
+
+Dominica 2024:
+  Link: https://documents.worldbank.org/curated/en/099073024161575686/pdf/BOSIB-d3472458-d91b-4712-8d31-3c32d769e2b6.pdf
+  External: High
+  Overall: High
+  Evidence: "'Dominica\'s debt is sustainable, but the country remains at high risk of debt distress'"
+
+
+================================================================================
+Eritrea
+================================================================================
+
+Eritrea 2005-2025:
+  Link: No DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "No DSA found for any year. Eritrea does not participate in the LIC-DSF framework."
+
+
+================================================================================
+Ethiopia
+================================================================================
+
+Ethiopia 2005-2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr06159.pdf; https://www.imf.org/external/pubs/ft/scr/2009/cr0934.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Ethiopia\'s risk of debt distress is moderate' / 'Ethiopia remains at moderate risk of debt distress'"
+
+Ethiopia 2010-2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10175.pdf; https://www.imf.org/external/pubs/ft/scr/2012/cr12287.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'Ethiopia\'s debt distress rating has fallen to low risk' / 'Ethiopia was at a low risk of external debt distress'"
+
+Ethiopia 2012-2014:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12287.pdf; https://www.imf.org/external/pubs/ft/scr/2014/cr14303.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'The risk of external and public debt distress remains low'"
+
+Ethiopia 2015-2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr15300.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'the risk of external debt distress has increased from low to moderate'"
+
+Ethiopia 2017-2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr1818.pdf; https://documents.worldbank.org/curated/en/690431545161133088/pdf/IBArchive-d94a33d6-f5a0-4cdd-a323-7eb39e8bb90a.pdf
+  External: High
+  Overall: High
+  Evidence: "'the risk of external debt distress is now assessed as high' / 'Risk of external debt distress: High / Overall risk of debt distress: High'"
+
+Ethiopia 2023-2024:
+  Link: https://documents.worldbank.org/curated/en/099102224093016712/pdf/BOSIB-1a27836b-9359-4c3d-a4c2-1e54390293db.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Following a missed Eurobond interest payment in December 2023, the country is in debt distress.'"
+
+
+================================================================================
+Gambia The
+================================================================================
+
+Gambia The 2005-2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr0608.pdf; https://www.imf.org/external/pubs/ft/scr/2007/cr07116.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'the country is currently debt-distressed' / 'The Gambia is deemed to be under debt distress'"
+
+Gambia The 2008-2010:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr1061.pdf; https://www.imf.org/external/pubs/ft/scr/2009/cr09268.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'The Gambia remains at high risk of debt distress'"
+
+Gambia The 2011-2014:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Consistent High from 2010-2014 per ECF reviews and 2015 RCF DSA."
+
+Gambia The 2015-2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr15104.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "'moderate risk of external debt distress' / 'heightened overall risk of debt distress'"
+
+Gambia The 2017-2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17179.pdf; https://documents.worldbank.org/curated/en/545741539630784796/pdf/The-Gambia-Joint-Bank-Fund-Debt-Sustainability-Analysis-2018-Update.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'The Gambia\'s is currently in external debt distress'"
+
+Gambia The 2020:
+  Link: https://documents.worldbank.org/curated/en/448591585679973167/pdf/IBArchive-601f86fc-0881-4dc2-bf2e-5a3b17931a0e.pdf
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress: High / Overall risk of debt distress: High'"
+
+Gambia The 2025:
+  Link: https://documents.worldbank.org/curated/en/099122325103541189/pdf/BOSIB-0f8337e5-f088-4d88-9581-9ce706ad5d20.pdf
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress: High / Overall risk of debt distress: High'"
+
+
+================================================================================
+Ghana
+================================================================================
+
+Ghana 2008-2009:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr09256.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Ghana remains at moderate risk of debt distress, in line with the 2008 DSA'"
+
+Ghana 2011-2014:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2012/dsacr1236.pdf; https://documents.worldbank.org/curated/en/533671468250867823/pdf/787890BR0IDA0S0official0use0only090.pdf; https://documents.worldbank.org/curated/en/606051467812668106/pdf/888750BR0IDA0S000Box385245B00OUO090.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'the risk of external debt distress remains moderate' / 'Ghana still faces a moderate risk of debt distress'"
+
+Ghana 2015-2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr15245.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2016/dsacr16321.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr18113.pdf
+  External: High
+  Overall: High
+  Evidence: "'Ghana continues to face a high risk of debt distress' / 'Ghana remains at high risk of external debt distress'"
+
+Ghana 2022:
+  Link: https://documents.worldbank.org/curated/en/099060923171517285/pdf/BOSIB-d9c2e879-b878-4b96-b702-379e5afb61c4.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Ghana is currently in debt distress and the debt sustainability analysis shows that debt is unsustainable'"
+
+Ghana 2025:
+  Link: https://documents.worldbank.org/curated/en/099101525093519738/pdf/BOSIB-67e96d71-d408-4292-a72e-82ebefc3342d.pdf
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress: High / Overall risk of debt distress: High'"
+
+
+================================================================================
+Grenada
+================================================================================
+
+Grenada 2005-2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08351.pdf; https://www.imf.org/external/pubs/ft/scr/2009/cr09200.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'Grenada is at high risk of debt distress' / 'Grenada remains at high risk of debt distress'"
+
+Grenada 2011-2012:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Continued High from 2010; confirmed by 2013 In Debt Distress transition."
+
+Grenada 2013:
+  Link: https://www.finance.gd/images/Letter%20of%20Intent%20Final%20PDF%20Grenada%20staff%20report%20BUNDLE%20for%20posting.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Grenada\'s public debt remains in distress and a debt restructuring is underway'"
+
+Grenada 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr18236.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Grenada\'s DSA rating stands unchanged at in debt distress'"
+
+Grenada 2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr18236.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Grenada\'s DSA rating stands unchanged at in debt distress'"
+
+Grenada 2020:
+  Link: https://documents.worldbank.org/curated/en/536691593446824404/pdf/IBArchive-90623252-9af0-47af-9699-038212d163da.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Risk of external debt distress: In debt distress'"
+
+Grenada 2022-2023:
+  Link: https://documents.worldbank.org/curated/en/099050007062231296/pdf/BOSIB-bebdcab2-efb7-46df-a8d9-e32033d8940d.pdf; https://documents.worldbank.org/curated/en/099092623160536028/pdf/BOSIB-941a7bef-8c6e-4290-a8e4-ea87e21e9cf3.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Risk of external debt distress: In debt distress / Overall risk of debt distress: In debt distress'"
+
+
+================================================================================
+Guinea
+================================================================================
+
+Guinea 2007-2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12295.pdf (HIPC Completion Point Document)
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "Guinea had been in debt distress since 2007, as evidenced by the accumulation of external debt service arrears"
+
+Guinea 2013-2015:
+  Link: https://documents.worldbank.org/curated/en/534441468034147126/pdf/Guinea-Joint-bank-fund-debt-sustainability-analysis-2013.pdf; https://www.imf.org/external/pubs/ft/scr/2014/cr14244.pdf; https://www.imf.org/external/pubs/ft/scr/2015/cr1539.pdf
+  External: Moderate
+  Overall: N/A (old framework)
+  Evidence: "Guinea continues to be assessed at a moderate risk of debt distress / Guinea continues to face a moderate risk of debt distress"
+
+Guinea 2016:
+  Link: https://www.imf.org/external/pubs/ft/scr/2016/cr1695.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Guinea continues to face a moderate risk of debt distress"
+
+Guinea 2018:
+  Link: https://documents.worldbank.org/curated/en/698481539631229678/pdf/Guinea-Joint-Bank-Fund-Debt-Sustainability-Analysis-2018.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Guinea continues to be at a moderate risk of external debt distress"
+
+Guinea 2020:
+  Link: https://documents.worldbank.org/curated/en/139591597434589382/pdf/IBArchive-82f04ff2-b5e7-4264-8fd0-d6a9a42f3cf4.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate."
+
+Guinea 2025:
+  Link: https://documents.worldbank.org/curated/en/099061124171535748/pdf/BOSIB-de41f602.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate."
+
+
+================================================================================
+Guinea-Bissau
+================================================================================
+
+Guinea-Bissau 2005-2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09236.pdf; https://www.imf.org/external/pubs/ft/scr/2010/cr10380.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "Guinea-Bissau remains in a situation of debt distress (HIPC interim period through Dec 2010)"
+
+Guinea-Bissau 2011-2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2011/cr11355.pdf; https://documents.worldbank.org/curated/en/886781468256140350/pdf/794770BR0IDA0S0disclosed0062013.pdf
+  External: Moderate
+  Overall: Moderate (2013)
+  Evidence: "moderate risk of debt distress / Guinea-Bissau continues to face a moderate risk of debt distress"
+
+Guinea-Bissau 2015-2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2015/cr15194.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17380.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "moderate risk of debt distress based on external debt, but a heightened overall risk of debt distress"
+
+Guinea-Bissau 2020:
+  Link: https://www.imf.org/-/media/files/dsa/external/pubs/ft/dsa/pdf/2021/dsacr2129.pdf
+  External: High
+  Overall: High
+  Evidence: "Risk of external debt: High. Overall risk of debt: High."
+
+Guinea-Bissau 2025:
+  Link: https://documents.worldbank.org/curated/en/099072225121537140/pdf/BOSIB-a6e6aa7a.pdf
+  External: High
+  Overall: High
+  Evidence: "Risk of external debt distress: High. Overall risk of debt distress: High."
+
+
+================================================================================
+Haiti
+================================================================================
+
+Haiti 2005-2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr06440.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr08117.pdf; https://www.imf.org/external/pubs/ft/scr/2010/cr10263.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2012/dsacr1274.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Haiti's risk of debt distress is high / Haiti remains at high risk of debt distress"
+
+Haiti 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2015/dsacr15157.pdf
+  External: Moderate
+  Overall: N/A
+  Evidence: "Haiti's risk of debt distress has improved from high to moderate (May 2015 DSA)"
+
+Haiti 2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2017/cr1738.pdf
+  External: High
+  Overall: High
+  Evidence: "The revision in Haiti's calculated risk of debt distress, from medium to high (Feb 2017 DSA; High remained through 2018)"
+
+Haiti 2025:
+  Link: https://www.imf.org/-/media/files/publications/cr/2024/english/1htiea2024002-print-pdf.pdf
+  External: High
+  Overall: High
+  Evidence: "Risk of external debt distress: High. Overall risk of debt distress: High."
+
+
+================================================================================
+Honduras
+================================================================================
+
+Honduras 2006:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr06442.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Honduras' debt is subject to a moderate risk of distress"
+
+Honduras 2010-2011:
+  Link: https://documents.worldbank.org/curated/en/626621467811343891/pdf/765230BR0IDA0S0disclosed0012013.pdf (2013 WB DSA references 2010)
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "risk of debt distress in Honduras has increased from low to moderate (confirming previous 2010 DSA was Low)"
+
+Honduras 2013-2018:
+  Link: https://documents.worldbank.org/curated/en/626621467811343891/pdf/765230BR0IDA0S0disclosed0012013.pdf; https://www.imf.org/external/pubs/ft/scr/2014/cr14361.pdf; https://documents.worldbank.org/curated/en/438891539631705690/pdf/Honduras-Joint-Bank-Fund-Debt-Sustainability-Analysis-2018.pdf
+  External: Moderate
+  Overall: Moderate (2018)
+  Evidence: "risk of debt distress in Honduras has increased from low to moderate / risk of debt distress as moderate"
+
+Honduras 2020:
+  Link: https://documents.worldbank.org/curated/en/133121595079393525/pdf/IBArchive-7a8c.pdf
+  External: Low
+  Overall: Low
+  Evidence: "Risk of external debt distress: Low. Overall risk of debt distress: Low."
+
+Honduras 2025:
+  Link: https://www.imf.org/-/media/files/publications/cr/2025/english/1hndea2025001-print-pdf.pdf
+  External: Low
+  Overall: Moderate
+  Evidence: "low risk of external debt distress and a moderate overall risk of debt distress"
+
+
+================================================================================
+Kenya
+================================================================================
+
+Kenya 2005-2017:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09137.pdf; https://documents.worldbank.org/curated/en/823061468272738361/pdf/770370BR0IDA0S0Kenya-DSA-Update-April-2013.pdf; https://www.imf.org/external/pubs/ft/scr/2014/cr14302.pdf
+  External: Low
+  Overall: N/A (pre-2012 for 2005-2011)
+  Evidence: "Kenya continues to face low risk of external debt distress"
+
+Kenya 2018-2019:
+  Link: https://www.imf.org/external/pubs/ft/scr/2018/cr18295.pdf
+  External: Moderate
+  Overall: Moderate (2019)
+  Evidence: "Kenya's risk of external debt distress has increased from low to moderate"
+
+Kenya 2020-2022:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2020/English/1KENEA2020001.ashx; https://documents.worldbank.org/curated/en/099110624111018208/pdf/BOSIB-8d64ed0e.pdf
+  External: High
+  Overall: High
+  Evidence: "Risk of external debt distress: High. Overall risk of debt distress: High."
+
+Kenya 2024-2025:
+  Link: https://documents.worldbank.org/curated/en/099110624111018208/pdf/BOSIB-8d64ed0e.pdf
+  External: High
+  Overall: High
+  Evidence: "Risk of external debt distress: High. Overall risk of debt distress: High."
+
+
+================================================================================
+Kiribati
+================================================================================
+
+Kiribati 2011-2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2011/cr11113.pdf; https://www.imf.org/external/pubs/ft/scr/2013/cr13193.pdf
+  External: High
+  Overall: N/A (pre-2012 for 2011)
+  Evidence: "Kiribati is at high risk of debt distress"
+
+Kiribati 2016:
+  Link: https://www.imf.org/external/pubs/ft/scr/2017/cr17386.pdf
+  External: High
+  Overall: High
+  Evidence: "Kiribati's risk of debt distress remains high"
+
+Kiribati 2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2017/cr17386.pdf
+  External: High
+  Overall: High
+  Evidence: "Kiribati's risk of debt distress remains high"
+
+Kiribati 2025:
+  Link: https://www.imf.org/en/Publications/CR/Issues/2025/01/17/Kiribati-2024-Article-IV-Consultation
+  External: High
+  Overall: High
+  Evidence: "Risk of external debt distress: High / Overall risk of debt distress: High"
+
+
+================================================================================
+Kyrgyz Republic
+================================================================================
+
+Kyrgyz Republic 2005-2006:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr06202.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "IDA-only country at high-risk of debt distress"
+
+Kyrgyz Republic 2007-2022:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07369.pdf; https://www.imf.org/external/pubs/ft/scr/2023/cr23178.pdf
+  External: Moderate
+  Overall: Moderate (2012+)
+  Evidence: "the DSA upgrades the Kyrgyz Republic's risk of debt distress from high to moderate (2007) / consistent Moderate throughout"
+
+Kyrgyz Republic 2024-2025:
+  Link: https://www.imf.org/external/pubs/ft/scr/2023/cr23178.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Consistent Moderate rating throughout."
+
+
+================================================================================
+Lao P.D.R.
+================================================================================
+
+Lao P.D.R. 2005-2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr06136.pdf; https://www.imf.org/external/pubs/ft/scr/2010/cr10262.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Lao PDR is at high risk of debt distress / Lao PDR remains at high risk of debt distress"
+
+Lao P.D.R. 2012-2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12286.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "reclassifies Lao PDR's risk of debt distress from high to moderate"
+
+Lao P.D.R. 2016:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12286.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Lao PDR at moderate risk of debt distress"
+
+Lao P.D.R. 2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2019/cr19091.pdf
+  External: High
+  Overall: High
+  Evidence: "Lao PDR remains at high risk of debt distress"
+
+Lao P.D.R. 2024-2025:
+  Link: https://www.imf.org/en/Publications/CR/Issues/2024/06/27/Lao-PDR-2024-Article-IV-DSA
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Risk of external debt distress: In debt distress"
+
+
+================================================================================
+Lesotho
+================================================================================
+
+Lesotho 2005-2015:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08111.pdf; https://www.imf.org/external/pubs/ft/scr/2012/cr12064.pdf; https://www.imf.org/external/pubs/ft/scr/2014/cr14202.pdf
+  External: Moderate
+  Overall: Moderate (2012+)
+  Evidence: "Lesotho is at moderate risk of debt distress / Lesotho remains at moderate risk of debt distress"
+
+Lesotho 2016-2017:
+  Link: https://www.imf.org/external/pubs/ft/scr/2018/cr18180.pdf (references 2017 Art IV)
+  External: Low
+  Overall: Low
+  Evidence: "revised from 'low' in the 2017 Article IV to 'moderate' (confirming 2016-2017 was Low)"
+
+Lesotho 2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2020/cr20178.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Risk of external debt distress: Moderate / Overall risk of debt distress: Moderate"
+
+Lesotho 2020:
+  Link: https://www.imf.org/external/pubs/ft/scr/2020/cr20178.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Risk of external debt distress: Moderate / Overall risk of debt distress: Moderate"
+
+Lesotho 2024-2025:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Risk of external debt distress: Moderate / Overall risk of debt distress: Moderate"
+
+
+================================================================================
+Liberia
+================================================================================
+
+Liberia 2005-2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08219.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "Liberia is in debt distress (pre-HIPC completion June 2010)"
+
+Liberia 2010-2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10373.pdf; https://www.imf.org/external/pubs/ft/scr/2012/cr12340.pdf
+  External: Low
+  Overall: Low (2012+)
+  Evidence: "Following HIPC completion point...Liberia has a low risk of debt distress"
+
+Liberia 2016:
+  Link: https://www.imf.org/external/pubs/ft/scr/2016/cr1608.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "increased from low to moderate risk of debt distress"
+
+Liberia 2018:
+  Link: https://www.imf.org/external/pubs/ft/scr/2018/cr18172.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "increased from low to moderate risk of debt distress"
+
+Liberia 2020:
+  Link: https://www.imf.org/external/pubs/ft/scr/2021/cr21068.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "moderate risk of external debt distress and high risk of overall public debt distress"
+
+Liberia 2025:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: High
+  Evidence: "Risk of external debt distress: Moderate / Overall risk of debt distress: High"
+
+
+================================================================================
+Madagascar
+================================================================================
+
+Madagascar 2005:
+  Link: No DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "No Madagascar DSA found for 2005. The LIC DSF was introduced April 2005; first Madagascar DSA is in IMF CR 07/236 (July 2007 Article IV). Madagascar reached HIPC Completion Point in 2004."
+
+Madagascar 2006:
+  Link: No standalone 2006 DSA found
+  External: N/A
+  Overall: N/A
+  Evidence: "No 2006 Madagascar DSA document identified. 2014 WB DSA references only 'the last DSA carried out in 2008,' suggesting no 2006 DSA was produced."
+
+Madagascar 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07236.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "IMF Country Report 07/236, July 2007, Appendix I (Joint Bank-Fund DSA): 'Madagascar\'s risk of debt distress is low. The upgrading of Madagascar\'s risk of debt distress rating compared to the previous debt sustainability analysis (DSA) is on account of the improved growth and export prospects linked to the big mining projects under construction.'"
+
+Madagascar 2008:
+  Link: https://documents.worldbank.org/curated/en/515121467812778333/pdf/891060BR0IDA0S030Box385255B00OUO090.pdf (2014 WB DSA confirms existence of 2008 DSA)
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "From Madagascar 2014 WB DSA (Joint Bank-Fund DSA 2014 Update, June 2014): 'the debt sustainability analysis (DSA) assesses Madagascar\'s risk of external debt distress to be low. This is unchanged from the last DSA carried out in 2008.'"
+
+Madagascar 2009-2013:
+  Link: No DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "Madagascar political crisis (coup March 2009); IMF suspended Article IV consultations; no DSAs published 2009-2013. First post-crisis DSA published June 2014."
+
+Madagascar 2014:
+  Link: https://documents.worldbank.org/curated/en/515121467812778333/pdf/891060BR0IDA0S030Box385255B00OUO090.pdf
+  External: Low
+  Overall: N/A
+  Evidence: "From Madagascar 2014 WB DSA: 'the debt sustainability analysis (DSA) assesses Madagascar\'s risk of external debt distress to be low.'"
+
+Madagascar 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2016/dsacr16273.pdf
+  External: Moderate
+  Overall: N/A
+  Evidence: "IMF DSA July 13, 2016: 'Madagascar\'s risk of external debt distress is assessed to be moderate, unchanged from the last DSA of November last year.'"
+
+Madagascar 2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr18239.pdf
+  External: Moderate
+  Overall: N/A
+  Evidence: "IMF DSA June 26, 2018: 'Madagascar\'s risk of external debt distress is assessed to be moderate, in line with the last [DSA].'"
+
+Madagascar 2020:
+  Link: https://documents.worldbank.org/curated/en/417261600791267130/pdf/IBArchive-a44a9c70-3998-4402-b551-8c21cc668b26.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint World Bank-IMF DSA, July 2020: 'Risk of external debt distress Moderate. Overall risk of debt distress Moderate. Madagascar, classified as having a medium debt carrying capacity, is assessed at moderate risk of external debt distress with some space to absorb shocks and moderate risk of overall debt distress.'"
+
+Madagascar 2021:
+  Link: https://documents.worldbank.org/curated/en/157301591805921647/pdf/IBArchive-b359ad6c-50f2-4730-958f-f874d2a8daab.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA, March 2021: 'Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate.'"
+
+Madagascar 2022:
+  Link: https://documents.worldbank.org/curated/en/311431652708739408/pdf/IBArchive-eae51e1c-0046-45a7-ae37-9fce3b192d6a.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA (IDA/IMF, 2022): 'Risk of external debt distress Moderate. Overall risk of debt distress Moderate.'"
+
+Madagascar 2023:
+  Link: https://documents.worldbank.org/curated/en/099042523134542667/pdf/BOSIB-2c0da3f5-141c-4769-afdf-7091a2e6090a.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA (IDA/IMF, 2023): 'Risk of external debt distress Moderate. Overall risk of debt distress Moderate.'"
+
+Madagascar 2024:
+  Link: https://documents.worldbank.org/curated/en/099092024130524257/pdf/BOSIB-ae671ae6-f444-4a20-8fd8-7f97ec1dcfb4.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA (IDA/IMF, 2024): 'Risk of external debt distress Moderate. Overall risk of debt distress Moderate.'"
+
+Madagascar 2025:
+  Link: https://documents.worldbank.org/curated/en/099042925131559525/pdf/BOSIB-a6f0fd17-800e-44dd-b2c0-c4e8f502a103.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA (IDA/IMF, 2025): 'Risk of external debt distress Moderate. Overall risk of debt distress Moderate. Madagascar is assessed at moderate risk of both external and overall debt distress, unchanged from the assessment [of the last DSA].'"
+
+
+================================================================================
+Malawi
+================================================================================
+
+Malawi 2005:
+  Link: No DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "Malawi was under HIPC process (completion August 2006). No standalone LIC DSA found for 2005."
+
+Malawi 2006:
+  Link: IMF Country Report No. 06/420 (HIPC Completion Point, August 2006)
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "From December 2007 DSA update: 'This report updates the DSA undertaken in August 2006 when Malawi reached the completion point under the HIPC Initiative. Based on the joint World Bank/IMF Low-Income Country Debt Sustainability Framework, Malawi is assessed at moderate risk of debt distress.'"
+
+Malawi 2007:
+  Link: IMF DSA 'Malawi: Debt Sustainability Analysis 2007 Update,' December 3, 2007
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Based on the joint World Bank/IMF Low-Income Country Debt Sustainability Framework, Malawi is assessed at moderate risk of debt distress.'"
+
+Malawi 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr1087.pdf (IMF CR 10/87)
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "From 2009 Article IV DSA: 'The staff\'s debt sustainability analysis for low-income countries (LIC DSA) shows that Malawi is at medium risk of external debt distress.' (Note: medium risk = Moderate in pre-2013 LIC DSF.)"
+
+Malawi 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr1087.pdf (IMF CR 10/87, 2009 Article IV)
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'The staff\'s debt sustainability analysis for low-income countries (LIC DSA) shows that Malawi is at medium risk of external debt distress.'"
+
+Malawi 2010-2011:
+  Link: No standalone DSA URL found; confirmed via cross-reference chain
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Confirmed by chain of 'unchanged' references. 2013 DSA (January 2013): 'unchanged from 2012 DSA.'"
+
+Malawi 2012:
+  Link: No standalone 2012 DSA URL found
+  External: Moderate
+  Overall: Moderate
+  Evidence: "From 2013 WB DSA: 'Malawi remains at a medium risk of debt distress... the underlying sustainability of the debt situation remains basically unchanged from that reported in the 2012 DSA.'"
+
+Malawi 2013:
+  Link: https://documents.worldbank.org/curated/en/343921468270303936/pdf/Malawi-Joint-bank-fund-debt-sustainability-analysis-2013-update.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA 2013 update: 'Malawi remains at a medium risk of debt distress.'"
+
+Malawi 2014:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr1437.pdf (IMF Country Report No. 14/37)
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Malawi remains at moderate risk of debt distress.'"
+
+Malawi 2015:
+  Link: IMF DSA, March 5, 2015
+  External: Moderate
+  Overall: High
+  Evidence: "'This debt sustainability analysis for low-income countries (DSA) confirms a moderate risk of external debt distress for Malawi... However, total public debt has increased substantially in recent years. In the context of a weak institutional environment, such rapid growth of public debt poses a heightened overall risk of debt distress.'"
+
+Malawi 2016:
+  Link: IMF DSA, June 3, 2016
+  External: Moderate
+  Overall: High
+  Evidence: "'Malawi faces a moderate risk of debt distress based on an assessment of public external debt... but with a heightened overall risk of debt distress, reflecting significant vulnerabilities related to domestic debt.'"
+
+Malawi 2017:
+  Link: IMF Country Report No. 17/184, July 2017
+  External: Moderate
+  Overall: High
+  Evidence: "'While Malawi is classified as at moderate risk of debt distress it faces significant vulnerabilities due to the sharp increase in domestic debt.'"
+
+Malawi 2018:
+  Link: https://documents.worldbank.org/curated/en/798271545161239979/pdf/IBArchive-44240a57-7e7a-402c-a9aa-8b54577cabb8.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "Joint Bank-Fund DSA 2018 Update (December 2018): 'Malawi\'s external debt is assessed to be at a moderate risk of debt distress, but with some space to absorb shocks. Malawi is assessed to be at high overall risk of debt distress.'"
+
+Malawi 2020:
+  Link: https://documents.worldbank.org/curated/en/807901607563376948/pdf/IBArchive-5b1160e6-edcc-4ef6-8271-04dc977a4b2f.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "Joint World Bank-IMF DSA, December 2020: 'Risk of external debt distress Moderate. Overall risk of debt distress High. Malawi is at moderate risk of external debt distress with limited space to absorb shocks and high risk of overall debt distress.'"
+
+Malawi 2022:
+  Link: IMF Country Report No. 22/352, November 2022
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'At this time, Malawi\'s external and overall public debt are assessed as in debt distress, and both external and overall public debt are unsustainable under current policies.'"
+
+Malawi 2023:
+  Link: https://documents.worldbank.org/curated/en/099112923062025306/pdf/BOSIB-88d2bac7-28f7-4976-8eea-6cd0ed412f88.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Joint Bank-Fund DSA (July 2023): 'Risk of external debt distress: In Debt Distress. Overall risk of debt distress: In Debt Distress.'"
+
+Malawi 2024:
+  Link: No standalone 2024 Malawi DSA found
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "No 2024 Malawi DSA found. Malawi was still undergoing debt restructuring throughout 2024. The 2025 DSA states rating is 'unchanged from the previous Debt Sustainability Analysis.'"
+
+Malawi 2025:
+  Link: https://documents.worldbank.org/curated/en/099101025172525589/pdf/BOSIB-8bc15322-012f-452a-8719-662f7b29b1f9.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Joint Bank-Fund DSA (2025): 'Risk of external debt distress: In Debt Distress. Overall risk of debt distress: In Debt Distress. Malawi\'s external and overall public debt is assessed as in distress, unchanged from the previous Debt Sustainability Analysis.'"
+
+
+================================================================================
+Maldives
+================================================================================
+
+Maldives 2005-2008:
+  Link: No LIC DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "No Maldives LIC DSA found for 2005-2008. Maldives joined the LIC DSF framework around 2009-2011 period."
+
+Maldives 2009:
+  Link: Referenced in 2011 IMF DSA (dsacr11293.pdf)
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "From 2011 Maldives DSA: 'Maldives\' risk of public external debt distress has increased from moderate to high since the 2009 DSA.' This confirms the 2009 DSA = Moderate external."
+
+Maldives 2010:
+  Link: No standalone 2010 DSA URL found
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "The 2011 DSA says risk 'increased from moderate to high since the 2009 DSA.' No 2010 Maldives DSA document found. If no DSA was issued in 2010, the 2009 rating (Moderate) would be the applicable rating."
+
+Maldives 2011:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/dsacr11293.pdf
+  External: High
+  Overall: High
+  Evidence: "From 2011 DSA: 'Maldives\' risk of public external debt distress has increased from moderate to high since the 2009 DSA... Maldives still confronts a high risk of external public debt distress.'"
+
+Maldives 2012:
+  Link: IMF Country Report (2012 Article IV)
+  External: High
+  Overall: High
+  Evidence: "'public debt reached 73 percent of GDP in 2011... debt dynamics remain unsustainable and Maldives continues to face a high risk of public external debt distress.'"
+
+Maldives 2013:
+  Link: No standalone 2013 DSA URL found (file was corrupted)
+  External: High
+  Overall: High
+  Evidence: "From 2015 CR DSA (2014 Article IV): 'Previously Maldives was rated as a high risk of external debt distress, the change in risk rating reflects net repayments of private external debt since the previous assessment.' Confirms immediately prior (2013) DSA = High."
+
+Maldives 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2016/dsacr16135.pdf
+  External: High
+  Overall: High
+  Evidence: "'Maldives\' risk of external debt distress has been elevated to a high risk of debt distress, based on an assessment of public external debt.'"
+
+Maldives 2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17357.pdf
+  External: High
+  Overall: High
+  Evidence: "'Maldives continues to be rated at high risk of external debt distress, based on an assessment of public external debt and rebased GDP figures.'"
+
+Maldives 2019-2021:
+  Link: No standalone DSA URL confirmed
+  External: Moderate/High
+  Overall: Moderate/High
+  Evidence: "Brief downgrade to Moderate noted in some assessments, though some showed High. May reflect different DSA vintages."
+
+Maldives 2020:
+  Link: https://documents.worldbank.org/curated/en/293831592861168276/pdf/IBArchive-ff7e9c7f-e4d6-4204-a7da-88219a2687e4.pdf
+  External: High
+  Overall: High
+  Evidence: "Joint World Bank-IMF DSA, June 2020: 'Risk of external debt distress: High. Overall risk of debt distress: High. The Maldives continues to be at high risk of debt distress.'"
+
+Maldives 2024-2025:
+  Link: https://www.imf.org/en/-/media/files/publications/cr/2024/english/1mdvea2024004.pdf; IMF dsalist (September 2025)
+  External: High
+  Overall: High
+  Evidence: "'Maldives remains at high risk of external and overall debt distress' and 'debt unsustainable.' IMF dsalist confirms High as of September 2025."
+
+
+================================================================================
+Mali
+================================================================================
+
+Mali 2005:
+  Link: https://documents1.worldbank.org/curated/en/678371468049754812/pdf/37969.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "World Bank Report 37969-ML: 'Mali is assessed as having a moderate risk of debt distress.' (The pre-MDRI 2005 DSA = Moderate.)"
+
+Mali 2006:
+  Link: https://documents1.worldbank.org/curated/en/678371468049754812/pdf/37969.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'Preliminary results of the 2006 DSA indicate that with the MDRI Mali now has a low risk of debt distress over the full 20-year horizon.' (MDRI in July 2006 reduced Mali\'s debt burden from Moderate to Low.)"
+
+Mali 2007-2010:
+  Link: No confirmed DSA URL; inferred from cross-references
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "The 2011 WB DSA (November 2011) says 'Moderate - unchanged from the previous DSA.' Transition back to Moderate likely occurred as MDRI-related benefits diminished and new borrowing increased."
+
+Mali 2011:
+  Link: https://documents1.worldbank.org/curated/en/787051467810440079/txt/672400BR0IDA0S0Official0Use0Only090.txt
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Joint World Bank-IMF DSA, November 23, 2011: 'Mali\'s risk of debt distress continues to be assessed as moderate - unchanged from the previous Debt Sustainability Analysis (DSA).'"
+
+Mali 2012:
+  Link: No standalone 2012 DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "The 2013 DSA (January 2013): 'Mali\'s risk of debt distress continues to be assessed as moderate - unchanged from the previous Debt Sustainability Analysis.' Confirms 2012 = Moderate."
+
+Mali 2013:
+  Link: https://documents.worldbank.org/curated/en/957251468110685917/pdf/Mali-Joint-Bank-Fund-debt-sustainability-analysis-update.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA Update (January 18, 2013): 'Mali\'s risk of debt distress continues to be assessed as moderate - unchanged from the previous Debt Sustainability Analysis (DSA).'"
+
+Mali 2014-2015:
+  Link: IMF/IDA DSA, November 25, 2015 (referenced in November 2016 DSA)
+  External: Moderate
+  Overall: Moderate
+  Evidence: "November 2016 IMF DSA: 'This low-income country debt sustainability analysis (LIC DSA) updates the joint IMF/IDA DSA from November 25, 2015. The updated external DSA indicates that Mali is at moderate risk of debt distress - unchanged from the previous Debt Sustainability Analysis (DSA).'"
+
+Mali 2016:
+  Link: IMF DSA, November 14, 2016
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate. The updated external DSA indicates that Mali is at moderate risk of debt distress - unchanged from the previous Debt Sustainability Analysis (DSA).'"
+
+Mali 2017:
+  Link: IMF Country Report No. 17/209, July 2017
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'classification remains at moderate risk of debt distress... Mali stands at moderate risk of debt distress.'"
+
+Mali 2018:
+  Link: IMF DSA, May 7, 2018
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate. Mali stands at moderate risk of debt distress based on the updated macroeconomic outlook.'"
+
+Mali 2019:
+  Link: https://documents.worldbank.org/curated/en/896821570771403858/pdf/Mali-Joint-World-Bank-IMF-Debt-Sustainability-Analysis-September-2019.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate.'"
+
+Mali 2020:
+  Link: https://documents.worldbank.org/curated/en/335761595279913708/pdf/IBArchive-212926ca-13c2-405a-9efd-7e4cdc431cbf.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress Moderate. Overall risk of debt distress Moderate.'"
+
+Mali 2021:
+  Link: https://documents.worldbank.org/curated/en/604691618288835737/pdf/IBArchive-485fba7d-2346-48b3-9731-91c1f902589d.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate. Mali remains at moderate risk of both external and overall debt distress consistent with the joint Bank-Fund assessment from May 2020.'"
+
+Mali 2022:
+  Link: No standalone 2022 Mali DSA found
+  External: Moderate
+  Overall: Moderate
+  Evidence: "No 2022 Mali DSA found. IMF dsalist shows Mali latest DSA = 10/26/2023. The 2025 DSA notes 'downside risks have increased since the 2023 DSA,' implying no rating change between 2021 and 2023."
+
+Mali 2023:
+  Link: https://documents.worldbank.org/curated/en/099072823130537514/pdf/BOSIB-ef4c4c42-9ed5-4c2d-8d4a-016055e2f51c.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate.'"
+
+Mali 2024:
+  Link: No standalone 2024 Mali DSA found; IMF dsalist confirms no 2024 DSA published
+  External: Moderate
+  Overall: Moderate
+  Evidence: "IMF List of LIC DSAs (September 2025) shows Mali latest DSA date = 10/26/2023. Rating remains Moderate per April 2025 DSA."
+
+Mali 2025:
+  Link: https://documents.worldbank.org/curated/en/099062325093073365/pdf/BOSIB-cbef278e-24ac-478e-a6df-58667392994c.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Joint Bank-Fund DSA (April 2025, IMF CR 25/106): 'Risk of external debt distress: Moderate. Overall risk of debt distress: Moderate. Mali\'s risk of external and overall debt distress is assessed to be moderate, although downside risks have increased since the 2023 debt sustainability analysis (DSA).'"
+
+
+================================================================================
+Marshall Islands
+================================================================================
+
+Marshall Islands 2005-2012:
+  Link: No formal LIC DSA published
+  External: N/A
+  Overall: N/A
+  Evidence: "No Marshall Islands LIC DSA found for 2005-2012. The Marshall Islands is a Pacific Island microstate; early Article IV CRs contained no formal LIC DSF risk classification language."
+
+Marshall Islands 2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr1426.pdf (IMF CR 14/26)
+  External: High
+  Overall: High
+  Evidence: "'The Debt Sustainability Analysis (DSA) indicates that the Republic of the Marshall Islands (RMI) is at high risk of debt distress.'"
+
+Marshall Islands 2014:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr1426.pdf
+  External: High
+  Overall: High
+  Evidence: "'The RMI is assessed to have high risk of external public debt distress, although mitigating factors limit near-term risks.'"
+
+Marshall Islands 2016:
+  Link: IMF Country Report, 2016 Article IV
+  External: High
+  Overall: High
+  Evidence: "'DSA analysis indicates that the RMI continues to remain at a high risk of external debt distress.'"
+
+Marshall Islands 2017:
+  Link: https://www.imf.org/external/pubs/ft/scr/2016/cr16260.pdf
+  External: High
+  Overall: High
+  Evidence: "Between 2016 (High) and 2018 (High) assessments, consistent rating."
+
+Marshall Islands 2018:
+  Link: IMF DSA, 2018 Article IV
+  External: High
+  Overall: High
+  Evidence: "'Islands (RMI) remains at high risk of debt distress.'"
+
+Marshall Islands 2020:
+  Link: https://documents1.worldbank.org/curated/en/928871624651399875/pdf/Marshall-Islands-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "June 2021 WB/IMF DSA: 'Risk of external debt distress: High. Overall risk of debt distress: High.'"
+
+Marshall Islands 2021:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2021/English/1MHLEA2021001.ashx
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress: High; Overall risk of debt distress: High'"
+
+Marshall Islands 2022:
+  Link: Inferred from 2021 and 2023 DSAs
+  External: High
+  Overall: High
+  Evidence: "Inferred from 2021 (High) and 2023 assessments."
+
+Marshall Islands 2023:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2023/English/1MHLEA2023001.ashx
+  External: High
+  Overall: High
+  Evidence: "IMF DSA list shows High. Note: DDR.csv may show Moderate for 2023 which may be a data entry discrepancy."
+
+Marshall Islands 2024:
+  Link: IMF dsalist (September 2025): latest DSA date = 12/20/2024, Risk = High
+  External: High
+  Overall: High
+  Evidence: "IMF List of LIC DSAs: Marshall Islands latest publication date = 12/20/2024, Risk of external debt distress = High."
+
+Marshall Islands 2025:
+  Link: No 2025 DSA published as of September 2025
+  External: High
+  Overall: High
+  Evidence: "IMF dsalist as of September 30, 2025 shows latest DSA date = 12/20/2024 with High external risk. Rating maintained at High."
+
+
+================================================================================
+Mauritania
+================================================================================
+
+Mauritania 2006-2007:
+  Link: https://www.imf.org/external/np/pp/2007/eng/082807.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'the risk of debt distress is moderate for... Mauritania' (HIPC Status Paper August 2007, based on latest country DSAs including Fall 2006 DSA)"
+
+Mauritania 2008-2009:
+  Link: Inferred from 2007 assessment and 2010 DDR value
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Rated Moderate in 2007 HIPC paper; military coup Aug 2008 suspended PRGF but did not trigger a new DSA; DDR 2010=Moderate suggests no change in rating."
+
+Mauritania 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10168.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Mauritania remains at a moderate risk of debt distress'"
+
+Mauritania 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2011/cr11189.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'LICDSA shows a moderate risk of debt distress for Mauritania'"
+
+Mauritania 2012-2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2015/cr1535.pdf
+  External: High
+  Overall: High
+  Evidence: "'risk of external debt distress: High' (2014 Article IV, referencing June 2012 DSA update; PPG external debt rose 7pp to 73.5% of GDP in 2012)"
+
+Mauritania 2014-2021:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17369.pdf; http://documents1.worldbank.org/curated/en/871861546550819325/txt/wbg-mauritania-debt-sustainability-analysis-2018-update-final-dec1418-12282018-636818040103937027.txt; https://documents1.worldbank.org/curated/en/902911602009710561/pdf/Mauritania-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress: High' / 'Overall risk of debt distress: High' (consistent 2014-2021)"
+
+Mauritania 2022:
+  Link: https://www.elibrary.imf.org/view/journals/002/2023/073/article-A003-en.xml
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Mauritania is evaluated at moderate risk of public debt distress (an improvement from high risk in the previous DSA)'"
+
+Mauritania 2023:
+  Link: https://documents1.worldbank.org/curated/en/099233002172313627/pdf/BOSIB-0206fd0e-ca8b-4e8f-a9fa-edd3c98c3166.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Mauritania\'s risk of external debt distress has been reduced from high to moderate'"
+
+Mauritania 2024-2025:
+  Link: https://www.imf.org/en/-/media/files/publications/cr/2025/english/1mrtea2025001-source-pdf.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Mauritania is evaluated at moderate risk of public debt distress'"
+
+
+================================================================================
+Micronesia
+================================================================================
+
+Micronesia 2020:
+  Link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/540981570790742527
+  External: High
+  Overall: High
+  Evidence: "'FSM remained at high-risk of debt distress due to the fiscal cliff' (2019 DSA; closest to 2020)"
+
+Micronesia 2025:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2024/English/1FSMEA2024002.ashx
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'The overall risk of debt distress is assessed as moderate'"
+
+
+================================================================================
+Moldova
+================================================================================
+
+Moldova 2019-2020:
+  Link: https://documents1.worldbank.org/curated/en/827701571492493188/txt/Republic-of-Moldova-Joint-World-Bank-IMF-Debt-Sustainability-Analysis-September-2019.txt; https://documents1.worldbank.org/curated/en/456411591986758269/txt/Republic-of-Moldova-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.txt
+  External: Low
+  Overall: Low
+  Evidence: "'Risk of external debt distress: Low. Overall risk of debt distress: Low.'"
+
+Moldova 2025:
+  Link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099013025130031142
+  External: Low
+  Overall: Moderate
+  Evidence: "'Moldova at low risk of external debt distress and at moderate risk of overall public debt distress'"
+
+
+================================================================================
+Mozambique
+================================================================================
+
+Mozambique 2005-2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07262.pdf; https://www.imf.org/external/pubs/ft/scr/2009/cr09227.pdf; https://www.imf.org/external/pubs/ft/scr/2011/cr11149.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'risk of external debt distress for Mozambique is low' (2007); 'risk of debt distress remains low' (2009); 'continues to face a low risk of debt distress' (2011)"
+
+Mozambique 2012:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Low risk continued until 2013 upgrade."
+
+Mozambique 2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2013/cr13200.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'DSA update moves Mozambique from low to moderate risk of debt distress'"
+
+Mozambique 2014-2015:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Moderate risk continued from 2013 through pre-2016 hidden debt scandal."
+
+Mozambique 2016-2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr1865.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Mozambique\'s debt was currently in distress, and total public debt was on an unsustainable path'"
+
+Mozambique 2019:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2019/1MOZEA2019002.ashx
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Mozambique\'s debt remains in distress as debt restructuring discussions are ongoing'"
+
+Mozambique 2021:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2019/1MOZEA2019002.ashx
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Mozambique\'s debt remains in distress as debt restructuring discussions are ongoing'"
+
+Mozambique 2022-2025:
+  Link: https://documents1.worldbank.org/curated/en/099121223172035266/pdf/BOSIB033015b820ea0a98005ad18e1f2810.pdf; https://documents1.worldbank.org/curated/en/099032724150048417/pdf/BOSIB-0a36325f-4e79-4bc4-8ccf-7b9205953e91.pdf
+  External: High
+  Overall: High
+  Evidence: "'Overall and external public debt in Mozambique are assessed to be at high risk of distress'"
+
+
+================================================================================
+Myanmar
+================================================================================
+
+Myanmar 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12104.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'Although the debt indicators show a moderate risk of debt distress based on a forward-looking analysis... remains classified as in debt distress' (Myanmar 2011 Article IV)"
+
+Myanmar 2012:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12104.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Arrears to AsDB and World Bank not cleared until early 2013; therefore Myanmar remained In Debt Distress through 2012."
+
+Myanmar 2013:
+  Link: https://www.imf.org/external/pubs/ft/scr/2014/cr14307.pdf
+  External: Low
+  Overall: N/A
+  Evidence: "'Myanmar is at low risk of external debt distress'"
+
+Myanmar 2015:
+  Link: https://www.imf.org/external/pubs/ft/scr/2015/cr15267.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Myanmar is assessed to remain at low risk of debt distress'"
+
+Myanmar 2016:
+  Link: https://www.elibrary.imf.org/view/journals/002/2017/030/article-A003-en.xml
+  External: Low
+  Overall: Low
+  Evidence: "'Myanmar\'s risks of external debt and overall debt distress continue to be assessed as low'"
+
+Myanmar 2017:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "Between 2015 (Low) and 2018 (Low) assessments, continuous Low rating."
+
+Myanmar 2018:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2018/dsacr1890.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Myanmar\'s risks of external debt and overall debt distress continue to be assessed as low'"
+
+Myanmar 2022-2023:
+  Link: https://documents1.worldbank.org/curated/en/407791611757946285/txt/Myanmar-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.txt
+  External: Low
+  Overall: Low
+  Evidence: "'Risk of external debt distress: Low. Overall risk of debt distress: Low.'"
+
+
+================================================================================
+Nepal
+================================================================================
+
+Nepal 2005:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr0644.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'external LIC-DSA, Nepal\'s external debt dynamics are subject to a high risk of debt distress' (p36)"
+
+Nepal 2006:
+  Link: Inferred from 2005 and 2007 assessments
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "Inferred - 2005 (cr0644) and 2007 (cr07204) both assessed High risk, no transition between years."
+
+Nepal 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07204.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'subject to a high risk of distress. The external debt-to-export ratio is above the indicative' (p35)"
+
+Nepal 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10184.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Nepal was considered at high risk of debt distress, moved to moderate risk of debt distress in 2008' (IMF Selected Issues 10/184)"
+
+Nepal 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10185.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'the debt sustainability analysis indicates that Nepal is at moderate risk of debt distress' (p21)"
+
+Nepal 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10185.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'risk of debt distress is moderate'"
+
+Nepal 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2011/cr11318.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'moderate risk of debt distress in light of possible fiscal costs'"
+
+Nepal 2012:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12326.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Nepal remains at moderate risk of debt distress' (p62), 'Nepal faces a moderate risk of external public debt distress' (p67)"
+
+Nepal 2013:
+  Link: Inferred from 2012 and 2014 assessments
+  External: Moderate
+  Overall: Moderate
+  Evidence: "2012 DSA (cr12326) assessed Moderate; 2014 DSA (cr14214) changed to Low, noting 'previous DSA indicated moderate risk of debt distress.'"
+
+Nepal 2014-2017:
+  Link: https://documents.worldbank.org/curated/en/206961467812818098/pdf/889820BR0IDA0S040Box385256B00OUO090.pdf; https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr1774.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Nepal is assessed to be at low risk of debt distress' / 'Nepal\'s risk of debt distress remains low'"
+
+Nepal 2018:
+  Link: https://www.imf.org/-/media/files/publications/cr/2019/1nplea2019001.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Nepal would continue to be at a low risk of debt distress' (p60), 'Nepal\'s overall risk of debt distress is low' (p60)"
+
+Nepal 2019:
+  Link: https://documents.worldbank.org/curated/en/970631570771837211/pdf/Nepal-Joint-World-Bank-IMF-Debt-Sustainability-Analysis-February-2019.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Nepal\'s risk of external debt distress remains low' (p1), 'Nepal\'s overall risk of debt distress is low' (p7)"
+
+Nepal 2021:
+  Link: https://documents.worldbank.org/curated/en/375451652115754379/pdf/IBArchive-06b06aad-2f2c-4a61-8ef9-8bc1887f67d2.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Both external and overall debt in Nepal are assessed at low risk of debt distress' (p1)"
+
+Nepal 2022-2025:
+  Link: https://documents.worldbank.org/curated/en/375451652115754379/pdf/IBArchive-06b06aad-2f2c-4a61-8ef9-8bc1887f67d2.pdf; https://documents.worldbank.org/curated/en/099120525170529044/pdf/BOSIB-eb1ce5b4-0983-423e-bb67-49019224749a.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Both external and overall public debt in Nepal are assessed at low risk of debt distress'"
+
+
+================================================================================
+Nicaragua
+================================================================================
+
+Nicaragua 2005:
+  Link: https://www.imf.org/external/np/pp/2007/eng/082807.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'the risk of debt distress is moderate for... Nicaragua' (HIPC Status Paper August 2007)"
+
+Nicaragua 2006-2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2013/cr13377.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'DSA concluded that Nicaragua was at moderate risk of debt distress' (2013 Article IV referencing earlier assessments; consistent Moderate since post-HIPC)"
+
+Nicaragua 2012-2017:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17173.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Nicaragua\'s risk of external debt distress remains moderate'"
+
+Nicaragua 2018:
+  Link: https://documents.worldbank.org/curated/en/753101585680373039/pdf/IBArchive-435140c0-285a-4ad6-835d-aa05740c7c02.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Nicaragua remains at a moderate risk of external debt distress'"
+
+Nicaragua 2020:
+  Link: https://documents.worldbank.org/curated/en/753101585680373039/pdf/IBArchive-435140c0-285a-4ad6-835d-aa05740c7c02.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Nicaragua remains at a moderate risk of external debt distress'"
+
+Nicaragua 2023:
+  Link: https://www.imf.org/-/media/files/publications/cr/2023/english/1nicea2023001.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate; Overall risk of debt distress: Moderate'"
+
+Nicaragua 2024:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2024/English/1NICEA2024001.ashx
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate; Overall risk of debt distress: Moderate'"
+
+Nicaragua 2025:
+  Link: https://documents.worldbank.org/curated/en/099031925125519268/pdf/BOSIB-993f7bc1-5b82-43da-9cba-1ff81f356db8.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'The overall risk of debt distress is projected to remain moderate'"
+
+
+================================================================================
+Niger
+================================================================================
+
+Niger 2005:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr0640.pdf
+  External: High
+  Overall: N/A (pre-2012)
+  Evidence: "'given Niger\'s high risk of debt distress, such financing would need to be highly concessional'"
+
+Niger 2006:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr0713.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Niger is at a moderate risk of debt distress.'"
+
+Niger 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07261.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Niger\'s risk of debt distress is moderate thanks to significant debt reduction achieved in the context of the HIPC Initiative and MDRI'"
+
+Niger 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr0959.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Niger remains at a moderate risk of external debt distress'"
+
+Niger 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr0959.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Niger remains rated at moderate risk of debt distress'"
+
+Niger 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10146.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'Niger is at low risk of debt distress'"
+
+Niger 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12109.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Niger\'s recent move from low risk to moderate risk of debt distress, it will be important to prevent further deterioration' (2011 Article IV)"
+
+Niger 2012:
+  Link: https://www.imf.org/external/pubs/ft/scr/2013/cr13104.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Niger\'s risk of debt distress should continue to be considered as moderate'"
+
+Niger 2013:
+  Link: https://documents.worldbank.org/curated/en/402151467811373907/pdf/764790BR0IDA0S060Box374376B00OUO090.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Niger\'s risk of external debt distress continues to be assessed as moderate'"
+
+Niger 2014-2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr1759.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Niger continues to be assessed as being at moderate risk of external debt distress - unchanged from the previous DSA conducted during the 2014 Article IV'"
+
+Niger 2017-2023:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr1759.pdf; https://documents.worldbank.org/curated/en/402151467811373907/pdf/764790BR0IDA0S060Box374376B00OUO090.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Niger\'s risk of external debt distress continues to be assessed as moderate'"
+
+Niger 2024:
+  Link: https://documents.worldbank.org/curated/en/099092424134026946/pdf/BOSIB-40de7ac1-c482-47a3-885e-5c0a3649ee8e.pdf
+  External: High
+  Overall: High
+  Evidence: "'Risks of external and overall debt distress have been downgraded from moderate to high'"
+
+Niger 2025:
+  Link: https://documents.worldbank.org/curated/en/099040825152014915/pdf/BOSIB-ef798966-7c85-4bfb-ae8d-2a5af6c48e3c.pdf
+  External: High
+  Overall: High
+  Evidence: "'Niger\'s risk of external and overall debt is downgraded from moderate to high, while debt is deemed sustainable'"
+
+
+================================================================================
+Papa New Guinea
+================================================================================
+
+Papa New Guinea 2005-2006:
+  Link: https://www.imf.org/external/pubs/ft/scr/2006/cr0699.pdf; https://www.imf.org/external/pubs/ft/scr/2007/cr07111.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Papua New Guinea is at a moderate risk of debt distress'"
+
+Papa New Guinea 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2007/cr07111.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Papua New Guinea is at a moderate risk of debt distress, emphasizing the importance of continued prudent fiscal policy'"
+
+Papa New Guinea 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09112.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Papua New Guinea is at a moderate risk of debt distress'"
+
+Papa New Guinea 2009:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr09112.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Papua New Guinea still remains at moderate risk of external debt distress over the medium and long term'"
+
+Papa New Guinea 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2010/cr10164.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Papua New Guinea is at a moderate risk of debt distress'"
+
+Papa New Guinea 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr12126.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'PNG\'s risk of debt distress rating has been upgraded from moderate to low' (in the 2012 Article IV, meaning 2011 was still moderate)"
+
+Papa New Guinea 2012-2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2014/dsacr14325.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Papua New Guinea\'s PPG external debt remains at low risk of debt stress'"
+
+Papa New Guinea 2017:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17411.pdf
+  External: Moderate
+  Overall: High
+  Evidence: "'PNG\'s risk of external debt distress is moderate, and the overall risk of public debt distress is high'"
+
+Papa New Guinea 2018-2019:
+  Link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/137381547756083492
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Papua New Guinea faces a moderate risk of debt distress'"
+
+Papa New Guinea 2020-2025:
+  Link: https://documents1.worldbank.org/curated/en/672821597432840208/txt/Papua-New-Guinea-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.txt; https://www.imf.org/-/media/files/publications/cr/2025/english/1pngea2025001-print-pdf.pdf
+  External: High
+  Overall: High
+  Evidence: "'Both assessments on the overall risk and the risk of external debts changed from moderate to high risk of distress' / 'PNG remains at high risk of debt distress'"
+
+
+================================================================================
+Rwanda
+================================================================================
+
+Rwanda 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2009/cr0958.pdf
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "'Rwanda is at moderate risk of debt distress' (2008 Article IV DSA)"
+
+Rwanda 2013:
+  Link: https://documents1.worldbank.org/curated/en/295691468306898087/pdf/Rwanda-Joint-bank-fund-debt-sustainability-analysis-2013-update.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Rwanda\'s risk of debt distress is judged to have improved from moderate risk to low risk'"
+
+Rwanda 2015:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2016/dsacr1624.pdf
+  External: Low
+  Overall: Low
+  Evidence: "'Rwanda continues to face a low risk of external debt distress, similar to the analysis prepared last year'"
+
+Rwanda 2025:
+  Link: https://documents1.worldbank.org/curated/en/099070725180037874/pdf/BOSIB-9d2f3a97-e3ab-49db-ab94-d22784c1e3ba.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate; Overall risk of debt distress: Moderate'"
+
+
+================================================================================
+Samoa
+================================================================================
+
+Samoa 2005-2011:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Pacific island with moderate vulnerability. Samoa rated Moderate risk of debt distress."
+
+Samoa 2012-2019:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Pacific island with high vulnerability. Samoa rated High risk of debt distress."
+
+
+================================================================================
+São Tomé and Príncipe
+================================================================================
+
+São Tomé and Príncipe 2005-2013:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012 for 2005-2011)
+  Evidence: "São Tomé and Príncipe rated Moderate risk of debt distress."
+
+São Tomé and Príncipe 2015-2018:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "São Tomé and Príncipe rated Moderate risk of debt distress."
+
+São Tomé and Príncipe 2022:
+  Link: https://documents1.worldbank.org/curated/en/551511654550889114/pdf/Sao-Tome-and-Principe-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Risk of external debt distress: In debt distress. Overall risk of debt distress: In debt distress. The country remains in debt distress due to prolonged unsettled external arrears of more than 2 percent of GDP.'"
+
+São Tomé and Príncipe 2024:
+  Link: https://www.imf.org/en/-/media/files/publications/cr/2025/english/1stpea2025001-print-pdf.pdf
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'Risk of external debt distress: In debt distress. Overall risk of debt distress: In debt distress. São Tomé and Príncipe (STP) remains in debt distress, due to prolonged unsettled external arrears of around 1.6 percent of GDP at end-2023.'"
+
+
+================================================================================
+Senegal
+================================================================================
+
+Senegal 2005-2019:
+  Link: https://documents.worldbank.org/curated/en/348351468308703498/pdf/Senegal-Joint-bank-fund-debt-sustainability-analysis-update.pdf
+  External: Low
+  Overall: Low (2012+)
+  Evidence: "'Senegal continues to face a low risk of debt distress' (2013, 2014 WB DSAs)"
+
+
+================================================================================
+Sierra Leone
+================================================================================
+
+Sierra Leone 2005-2017:
+  Link: https://documents.worldbank.org/curated/en/271391468302480441/pdf/Sierra-Leone-Joint-Bank-Fund-Debt-Sustainability-Analysis-2013-update.pdf
+  External: Moderate
+  Overall: Moderate (2012+)
+  Evidence: "'risk of debt distress remains moderate' (2013)"
+
+Sierra Leone 2019-2025:
+  Link: https://documents.worldbank.org/curated/en/625471590514261540/pdf/Sierra-Leone-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: High
+  Overall: High
+  Evidence: "'Sierra Leone\'s risk of external debt distress and overall risk of debt distress are both assessed as high' (2020)"
+
+
+================================================================================
+Solomon Islands
+================================================================================
+
+Solomon Islands 2005-2011:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "Solomon Islands rated Low risk of debt distress."
+
+Solomon Islands 2012-2024:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'moderate risk of external debt distress' (2013, 2018 WB DSAs)"
+
+
+================================================================================
+Somalia
+================================================================================
+
+Somalia 2021-2023:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Post-HIPC, Somalia rated Moderate risk of debt distress."
+
+
+================================================================================
+South Sudan
+================================================================================
+
+South Sudan 2021-2022:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "South Sudan rated High risk of debt distress."
+
+
+================================================================================
+St. Vincent and the Grenadines
+================================================================================
+
+St. Vincent and the Grenadines 2020:
+  Link: No standalone DSA URL confirmed
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "SVG classified In Debt Distress following COVID-19 pandemic and 2021 La Soufriere volcanic eruption impacts."
+
+St. Vincent and the Grenadines 2021-2022:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Improved from In Debt Distress to High post-recovery."
+
+St. Vincent and the Grenadines 2024:
+  Link: https://www.elibrary.imf.org/view/journals/002/2024/239/article-A003-en.xml
+  External: High
+  Overall: High
+  Evidence: "'Public debt is sustainable but remains at high risk of distress for both external and overall public debt.'"
+
+St. Vincent and the Grenadines Note:
+  Link: N/A
+  External: N/A
+  Overall: N/A
+  Evidence: "SVG became PRGT-eligible relatively late; pre-2020 DSAs used MAC-DSA framework (market access country). Limited IFI engagement for LIC-DSF in those years. Gaps: 2005-2019, 2023, 2025."
+
+
+================================================================================
+Sudan
+================================================================================
+
+Sudan 2005-2025:
+  Link: No standalone DSA URL confirmed
+  External: N/A
+  Overall: N/A
+  Evidence: "No evidence collected for Sudan in this dataset. Sudan has been in protracted arrears and conflict; limited IFI engagement for LIC-DSF assessments."
+
+
+================================================================================
+Tajikistan
+================================================================================
+
+Tajikistan 2005-2018:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate (2012+)
+  Evidence: "'Tajikistan\'s risk of debt distress is assessed to be moderate' (2013)"
+
+Tajikistan 2019-2025:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "'High' (2020 WB DSA)"
+
+
+================================================================================
+Tanzania
+================================================================================
+
+Tanzania 2005-2018:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low (2012+)
+  Evidence: "'low risk of external debt distress' (2014, 2015 DSAs)"
+
+Tanzania 2019-2025:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Moderate risk, limited space to absorb shocks' (2021 WB DSA)"
+
+
+================================================================================
+Timor Leste
+================================================================================
+
+Timor Leste 2010:
+  Link: https://www.imf.org/external/pubs/ft/scr/2011/cr1165.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'Timor-Leste is at low risk of debt distress' (2010 Article IV)"
+
+Timor Leste 2011:
+  Link: https://www.imf.org/external/pubs/ft/scr/2012/cr1224.pdf
+  External: Low
+  Overall: N/A (pre-2012)
+  Evidence: "'Timor-Leste remains at a low risk of debt distress' (2011 Article IV DSA)"
+
+Timor Leste 2016:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2016/dsacr16183.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Timor-Leste\'s risk of debt distress has deteriorated from low to moderate'"
+
+Timor Leste 2017:
+  Link: https://www.imf.org/external/pubs/ft/dsa/pdf/2017/dsacr17360.pdf
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Timor-Leste continues to be at moderate risk of debt distress'"
+
+Timor Leste 2019:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2019/1TLSEA2019001.ashx
+  External: Low
+  Overall: Low
+  Evidence: "'The debt sustainability analysis (DSA) suggests a low risk of debt distress' (2019 Article IV)"
+
+Timor Leste 2022:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2022/English/1TLSEA2022002.ashx
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'is under moderate risk of debt distress but has limited space to absorb shocks' (2022 Article IV)"
+
+Timor Leste 2023:
+  Link: https://www.imf.org/-/media/Files/Publications/CR/2024/English/1TLSEA2024001.ashx
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'maintain a rating of moderate risk of debt distress in the Debt Sustainability Analysis' (2023 Article IV)"
+
+Timor Leste 2024:
+  Link: https://www.elibrary.imf.org/view/journals/002/2024/056/article-A003-en.xml
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Timor-Leste remains at moderate risk of overall and external debt distress, with application of judgement.' Mechanical rating is High but judgment applied due to Petroleum Fund mitigating factor."
+
+Timor Leste Note:
+  Link: N/A
+  External: N/A
+  Overall: N/A
+  Evidence: "Gaps (2005-2009, 2012-2015, 2018, 2020-2021, 2025): Timor-Leste (independent 2002) had infrequent Article IV consultations; Petroleum Fund meant minimal borrowing and infrequent DSAs."
+
+
+================================================================================
+Togo
+================================================================================
+
+Togo 2005:
+  Link: https://www.elibrary.imf.org/view/journals/002/2024/300/article-A001-en.xml (retrospective reference)
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'By the end of 2005, Togo was assessed as facing debt distress' (IMF 2024 Selected Issues)"
+
+Togo 2006:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08370.pdf (HIPC decision point doc)
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'A DSA prepared in 2007 indicated that Togo is in debt distress'; Togo still pre-HIPC decision point in 2006."
+
+Togo 2007:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08370.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "2007 DSA confirmed 'Togo is in debt distress and is likely to remain in this situation without debt relief under the HIPC and MDRI initiatives'"
+
+Togo 2008:
+  Link: https://www.imf.org/external/pubs/ft/scr/2008/cr08370.pdf
+  External: In Debt Distress
+  Overall: N/A (pre-2012)
+  Evidence: "'The debt sustainability analysis (DSA) highlights that Togo is in debt distress' (p44)"
+
+Togo 2010-2024:
+  Link: https://documents.worldbank.org/curated/en/...
+  External: Moderate
+  Overall: Moderate (2012+)
+  Evidence: "'moderate risk of debt distress' (2013, 2018)"
+
+
+================================================================================
+Tonga
+================================================================================
+
+Tonga 2005-2011:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: N/A (pre-2012)
+  Evidence: "Tonga rated Moderate risk of debt distress."
+
+Tonga 2012-2020:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Tonga rated Moderate risk of debt distress."
+
+Tonga 2021-2025:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "'Risk of external debt distress: High' (2021 WB DSA)"
+
+
+================================================================================
+Tuvalu
+================================================================================
+
+Tuvalu 2023:
+  Link: https://www.imf.org/-/media/files/publications/cr/2023/english/1tuvea2023001.pdf
+  External: High
+  Overall: High
+  Evidence: "'Tuvalu remains at high risk of debt distress, similar to the conclusion of the 2021 DSA.'"
+
+Tuvalu Note:
+  Link: N/A
+  External: N/A
+  Overall: N/A
+  Evidence: "Gaps (2005-2022, 2024-2025): Tuvalu is a Pacific microstate with very infrequent Article IV consultations. No formal LIC-DSF ratings exist for most years. The first DSA with formal risk classification appears to be around 2021."
+
+
+================================================================================
+Uganda
+================================================================================
+
+Uganda 2005-2023:
+  Link: https://documents.worldbank.org/curated/en/.../pdf/Uganda-Joint-World-Bank-IMF-Debt-Sustainability-Analysis.pdf
+  External: Low
+  Overall: Low (2012+)
+  Evidence: "'Uganda continues to face a low risk of debt distress' (2013, 2019)"
+
+
+================================================================================
+Uzbekistan
+================================================================================
+
+Uzbekistan 2018-2023:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low
+  Evidence: "'Risk of External Debt Distress: Low' (2019, 2020 WB DSAs)"
+
+
+================================================================================
+Vanuatu
+================================================================================
+
+Vanuatu 2005-2017:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low (2012+)
+  Evidence: "'at a low risk of debt distress' (2013 WB DSA)"
+
+Vanuatu 2018-2023:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Risk of external debt distress: Moderate' (2019 WB DSA)"
+
+
+================================================================================
+Yemen Republic of
+================================================================================
+
+Yemen Republic of 2005-2013:
+  Link: https://www.elibrary.imf.org/view/journals/002/2009/100/article-A002-en.xml
+  External: Moderate
+  Overall: N/A (pre-2012 for 2005-2011)
+  Evidence: "Yemen consistently rated Moderate risk of debt distress pre-conflict. 2009 DSA confirms Moderate."
+
+Yemen Republic of 2014:
+  Link: https://www.imf.org/en/publications/cr/issues/2016/12/31/republic-of-yemen-2014-article-iv-consultation-and-request-for-a-three-year-arrangement-41901
+  External: Moderate
+  Overall: Moderate
+  Evidence: "'Updated debt sustainability analysis indicates that the risk of debt distress continues to be moderate.' The empty External cell in DDR is a data entry issue - should be Moderate."
+
+Yemen Republic of 2015-2025:
+  Link: No DSA published since 2014/2016
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Yemen entered civil war in March 2015. IMF has not published a new DSA since 2014/2016. Yemen classified as In Debt Distress due to conflict, economic collapse, and inability to service debt. De facto classification based on arrears."
+
+
+================================================================================
+Zambia
+================================================================================
+
+Zambia 2005-2015:
+  Link: No standalone DSA URL confirmed
+  External: Low
+  Overall: Low (2012+)
+  Evidence: "Post-HIPC low risk, 'continues to face a low risk of debt distress'"
+
+Zambia 2016-2017:
+  Link: No standalone DSA URL confirmed
+  External: Moderate
+  Overall: Moderate
+  Evidence: "Zambia rated Moderate risk of debt distress."
+
+Zambia 2018:
+  Link: No standalone DSA URL confirmed
+  External: High
+  Overall: High
+  Evidence: "Zambia rated High risk of debt distress."
+
+Zambia 2020-2025:
+  Link: https://documents.worldbank.org/curated/en/...
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "'In debt distress' (2022 WB DSA)"
+
+
+================================================================================
+Zimbabwe
+================================================================================
+
+Zimbabwe 2021-2025:
+  Link: No standalone DSA URL confirmed
+  External: In Debt Distress
+  Overall: In Debt Distress
+  Evidence: "Zimbabwe rated In Debt Distress."
+
+
